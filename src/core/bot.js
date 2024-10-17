@@ -125,3 +125,5 @@ function parseWifiQR(qrString) {
 
 // Botni ishga tushirish
 bot.launch(() => console.log("Bot has started"));
+
+module.exports = bot;
